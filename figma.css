@@ -1,0 +1,369 @@
+* { 
+ box-sizing: border-box;
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+/* Clearfix (clear floats)*/
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.nav-container {
+  background-image:url("file:///C:/Users/9246376861/Downloads/Rectangle%20346.png");  
+}
+.nav-container header{
+    float:left;
+    width: 29%;
+    margin: 1%;
+    padding: 1%;
+    height: 140px;
+}
+.nav-container  rectangle346 {
+    /* Rectangle 346 */
+
+
+position: absolute;
+//box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25);
+}
+.nav-container logo img{
+/* Rectangle 1905 */
+
+
+position: absolute;
+width: 38px;
+height: 64px;
+left: 272px;
+top: 11px;
+
+background: #171717;
+}
+    
+.nav-btn-container h2 {
+    /* Login */
+
+
+position: absolute;
+width: 61px;
+height: 33px;
+left: 1385px;
+top: 26px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 33px;
+/* identical to box height */
+
+letter-spacing: 0.02em;
+
+color: #000000;
+}
+.nav-btn-container login-btn img {
+    /* Rectangle 2 */
+
+
+position: absolute;
+width: 120px;
+height: 60px;
+left: 1335px;
+top: 13px;
+
+background: #F5F5F5;
+box-shadow: 0px 20px 24px rgba(0, 0, 0, 0.03);
+border-radius: 80px;
+}
+.nav-items ul.li a {
+    color:#999;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.nav-items li a {
+/* Home */
+
+
+position: absolute;
+width: 75px;
+height: 36px;
+left: 366px;
+top: 26px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+.nav-items li a {
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 300px;
+height: 100px;
+left: 402px;
+top: 306px;
+
+background: rgba(255, 255, 255, 0.8);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 20px;
+}*/
+.nav-items li a {
+/* Courses */
+
+
+position: absolute;
+width: 104px;
+height: 36px;
+left: 476px;
+top: 26px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+letter-spacing: 0.02em;
+
+color: #000000;
+
+opacity: 0.6;
+}
+.nav-items li a {
+/* Pricing */
+
+
+position: absolute;
+width: 88px;
+height: 36px;
+left: 834px;
+top: 26px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 36px;
+/* identical to box height */
+
+letter-spacing: 0.02em;
+
+color: #000000;
+
+opacity: 0.6;
+}
+.nav-items li a {
+/* Disscussion Forum */
+
+
+position: absolute;
+width: 88px;
+height: 36px;
+left: 834px;
+top: 26px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 36px;
+/* identical to box height */
+
+letter-spacing: 0.01em;
+
+color: #000000;
+
+opacity: 0.6;
+}
+.photo-bg {
+    float: right;
+    margin: 20px;
+  
+}
+     
+.hero-content{
+    padding: 20px;
+    background: #ccc;
+    clear: left;
+    margin-top: 100px;
+    float: left;
+}
+.hero-image img {
+    width: 20%;
+    height: auto;
+    clear: right-side;
+    
+    padding: 20px;
+    
+}
+.Course-Details a img {
+/* 3784896 1 */
+
+
+position: absolute;
+width: 425px;
+height: 302px;
+left: 82px;
+top: 1015px;
+
+background: url(3784896.jpg);
+}
+.Course-Details a h1 {
+/* Daily live classes */
+
+
+position: absolute;
+width: 201px;
+height: 36px;
+left: 102px;
+top: 1327px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.Course-Details a p {
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Blandit in at viverra. */
+
+
+position: absolute;
+width: 386px;
+height: 64px;
+left: 102px;
+top: 1376px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+/* or 32px */
+
+
+color: #000000;
+
+opacity: 0.7;
+}
+.Course-Details a img {
+/* 5437683 1 */
+
+
+position: absolute;
+width: 425px;
+height: 302px;
+left: 548px;
+top: 1015px;
+
+background: url(5437683.jpg);
+}
+.Course-Details a h1 {
+/* 5437683 1 */
+
+
+position: absolute;
+width: 425px;
+height: 302px;
+left: 548px;
+top: 1015px;
+
+background: url(5437683.jpg);
+}
+.Course-Details a p { 
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Blandit in at viverra. */
+
+
+position: absolute;
+width: 386px;
+height: 64px;
+left: 568px;
+top: 1376px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+/* or 32px */
+
+
+color: #000000;
+
+opacity: 0.7;
+}
+.Course-Details a img {
+/* 3785210 1 */
+
+
+position: absolute;
+width: 425px;
+height: 302px;
+right-side: 1013px;
+top: 1015px;
+
+background: url(3785210.jpg);
+}
+.Course-Details a h1 {
+/* Learn anytime, anywhere */
+
+
+position: absolute;
+width: 302px;
+height: 36px;
+right: 1033px;
+top: 1327px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.Course-Details a p {
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Blandit in at viverra. */
+
+
+position: absolute;
+width: 386px;
+height: 64px;
+right: 1033px;
+top: 1376px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+/* or 32px */
+
+
+color: #000000;
+
+opacity: 0.7;
+}
+
+
+    
